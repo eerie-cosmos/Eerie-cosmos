@@ -17,7 +17,7 @@ Current interests include physically grounded perception, 3D reconstruction from
 [Visit portfolio website](https://eerie-cosmos.github.io)
 
 ## Documents
-- [Curriculum Vitae](eerie-cosmos.github.io/assets/cv.pdf)
+- [Curriculum Vitae](https://eerie-cosmos.github.io/Assets/CV.pdf)
 - Thesis and project materials available through portfolio site
 
 ## Note on code availability
