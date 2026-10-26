@@ -14,7 +14,7 @@ My research interest lies at the intersection of robotic perception, geometric r
     <td width=“34%”><img src=“https://eerie-cosmos.github.io/Assets/master-thesis/thumb.jpg” alt=“defocused blurred image, plane of focus, defocus blur pixels map”></td>
 <td><b>Coupled Deblurring and 3D Reconstruction from Image Sequences</b><br>M.Sc. thesis, TU Dortmund, 2025<br>
   Per-pixel defocus estimated from the SfM-MVS reconstruction and thin-lens optics model, compensated for by spatially varying Wiener and Richardson-Lucy deconvolution, resulting invisibly denser point clouds of two lunar camera field test data sets.<br>
-<a href=“https://eerie-cosmos.github.io/master-thesis/“>project page</a>·<a href=“https://eerie-cosmos.github.io/Assets/docs/Master-thesis-abstract-1p.pdf”>1-page abstract</a></td>
+<a href=“https://eerie-cosmos.github.io/master-thesis/“>project page</a> | <a href=“https://eerie-cosmos.github.io/Assets/docs/Master-thesis-abstract-1p.pdf”>1-page abstract</a></td>
 </tr>
 <tr>
   <td><img src=“https://eerie-cosmos.github.io/Assets/mars-vr/thumb.jpg” alt=“Mars Rock Model></td>
